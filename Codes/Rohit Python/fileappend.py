@@ -1,0 +1,6 @@
+n=input("enter your file name=")
+pt=open(n,"a")
+msg=input("enter your messege=")
+pt.write(msg)
+print("done.......")
+pt.close()

@@ -1,0 +1,12 @@
+name=input("enter your file name=")
+pt=open(name,'w')
+f=input("enter your father,s name=")
+m=input("enter your mother,s name=")
+b=input("enter your brother,s name=")
+s=input("enter your sister in law=")
+h=input("enter your husband name=")
+d=input("enter your dauther,s name=")
+k=f+m+b+s+h+d
+pt.write(k)
+print("file created successfully!!!")
+pt.close()
