@@ -1,3 +1,5 @@
+# Program to print prime number in a given range
+
 l = int(input("Enter lower limit: "))
 
 r = int(input("Enter upper limit: "))
