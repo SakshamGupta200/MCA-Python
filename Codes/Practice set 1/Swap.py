@@ -8,3 +8,4 @@ x = y
 y = z
 
 print("After Swapping :", x, y)
+2

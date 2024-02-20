@@ -3,4 +3,4 @@
 l = 40
 b = 30
 area = l * b
-print(area)
+print("area = ", area)

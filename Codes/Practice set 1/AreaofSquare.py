@@ -1,4 +1,4 @@
 # Area of square
 
 S = 5
-print(S*S)
+print("Area Of Square = ", S*S)
